@@ -30,7 +30,7 @@
         - A bonds with T or U (in RNA) - two hydrogen bonds
         - C bounds with G - three hydrogen bonds
     - DNA strands are anti parallel
-        - %LOCAL_FILE%eXSwaDyQpZOnSPPHNuntcMnDPHYDd9oZ8_SHbpwNm4l3jDwmy7k-ZeT7Ko8AImJw8ic9sQiYb34NSPjmfucPuu3aaCHFUkHqFU3pjKrd0ea-O3_edHnl7CiDNbidQ1Fg.png 
+         ![[bonded DNA strands.png]] 
 - RNA
     - 3 types of RNA in all cells
         - Messenger RNA (mRNA)
@@ -43,25 +43,25 @@
         - Ribosomal RNA (rRNA)
             - The structural component of ribosome
             - Produced in the nucleolus
-        - %LOCAL_FILE%yU9dAKS1775SznnQ6BA8gW4KRR2Zj4uf5e9CRVijV7Yyu0L6O8Qi51xLwornYOlfd84SmcvjWQZ__t3LFFrp3lb-RNmJptyDKjXxeaVkzilOKCwO-URLspOdfu1Sv7Pv.png 
+        ![[RNA types.png]]
 - Genetic code
     - Gene: a segment of DNA that codes/instructs for a certain polypeptide's production
-    - 3 consecuative bases in DNA = triplet
-        - DNA triplet gets transcribed into a RNA codon (three consecuative RNA bases)
+    - 3 consecutive bases in DNA = triplet
+        - DNA triplet gets transcribed into a RNA codon (three consecutive RNA bases)
         - Each RNA codon codes for one amino acid
         - Each codon is translated into a sequences of amino acids to be joined together into a polypeptide (protein) chain
         - Therefore, each DNA triplet codes for one amino acid molecule to be inserted into a polypeptide
-    - %LOCAL_FILE%IS0KcexzflT6D7Rn6asEHRVtlDcrRnYhjLaIF5ZCLtWOFudcAYBK4U7rVeguknzo0dcIlocspI67rmxNLMYAsx3mQasOpIipryww00BxWcEj9_goMSORqj7apZT7zyFC.png 
+    - ![[amino acids.png]]
     - More than one triplet can code for the same amino acid molecule, therefore we refer to DNA as degenerate (redundant)
-    - There are stop triplets/codons that don't code for any amino acid but instead designate where the polypeptide chain aends
+    - There are stop triplets/codons that don't code for any amino acid but instead designate where the polypeptide chain ends
     - There is a start triplet, TAC (codon AUG), which always codes for the amino acid methionine and designates the beginning of the protein molecule
     - Eukaryotic DNA is stored as chromosomes within the nucleus
         - Humans have 23 pairs of chromosomes
         - Chromosomes are made of tightly condensed chromatin
-        - Chromatic is composed of DNA wrapeed around histone proteins
-        - %LOCAL_FILE%C5HcELkb5XB0ZFYeC5A5WsXTBwO1CJyYpLHG3Xx8anbnqFoivcMUtdW266wS5iMFG4lFbVFYZp50YltfneTByd-pKywtYPl3foujJgSQt38LkA4rblgwy0TwJPbQ8uET.png 
-    - Prokaryotic DNA is gound in a singular circular chromosome contained in a central area known as the nucleoid
+        - Chromatic is composed of DNA wrapped around histone proteins
+        - ![[chromosomes.png]]
+    - Prokaryotic DNA is ground in a singular circular chromosome contained in a central area known as the nucleoid
         - Prokaryotic DNA does not contain histones
         - Prokaryotes contain small circular pieces of DNA called plasmids
-    - %LOCAL_FILE%1Tjj_8sykkAF9fWN53nAXbjOv-DFTzxKTM-tVPFO1czLMjxpgB9sosJndcq7mxnSPY5wVGwzrqbXAb62FZS68fsLoXj2T-l_IdsGWE-SRYQI_O7_Jiw1npn4aFFtPuN_.png
-    - RNA nucleotide
+    - ![[RNA v DNA nucleotide.jpeg]]
+    - RNA nucleotide v DNA nucleotide
