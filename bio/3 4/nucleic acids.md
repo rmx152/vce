@@ -1,0 +1,67 @@
+- DNA contains the instructions for every protein, cellular process and structural components within an organism
+- Nucleic acids (DNA+RNA) are polymers composed of a specific sequence of many nucleotides (monomers)
+- Monomer of DNA is made up of:
+    - A phosphate molecule
+    - Deoxyribose sugar
+    - Nitrogenous base (Adenine, Thymine, Cytosine, Guanine)
+    - [%LOCAL_FILE%9I6Jq4SPFDmKgPcmGbGjbimyfrfMySTzPnvxZYhPcYxMb9GiyL4qfoEXujA7AYw83iLIv4r2YUxISN709I7wrNx5UrreEUQKFexNJNZKLrfg8-EUrVYiBoV0dywxano7.png](https://www.remnote.com/w/64929993a943e546f852babb/3rzl3JkdPLEQIzgeW)EUrVYiBoV0dywxano7.png 
+- Monomer of RNA is made up of
+    - A phosphate
+    - Ribose sugar
+    - Nitrogenous base (Adenine, Uracil, Cytosine, Guanine)
+- Numbering of carbon
+    - Base will pair to the 1st carbon
+    - Phosphate will pair to the 5th carbon
+- DNA vs RNA
+    - RNA has ribose, DNA has deoxyribose (1 less oxygen than ribose)
+    - DNA is double stranded, RNA is single stranded
+    - RNA does not contain thymine, it is replaced by uracil
+    - %LOCAL_FILE%CPRklQzAXFCMYwH-QJGBqwJ6x38caw-gPMR0sEaIKLIETB4JMQ-6q2209P3tskCvSQ2QW8nYbx93iLYWssyP-fHJZwgqwVFkIId_tndVO-0lsB6B7TKmiY4Lu5mk7-Yj.png 
+- Adenine and Guanine are purines, due to two rings
+- Pyrimidines are the rest, containing only one ring
+- Nucleotides join to form a polymer (single strand of DNA)
+- The phosphate group of one nucleotide covalently (shares electrons) bonds with the deoxyribose sugar of the next nucleotide
+- Condensation polymerisation reaction (one water molecule is released every time)
+- DNA and RNA are directional (the end with the free phosphate is the 5' end)
+- Dna is double stranded
+    - Two nucleotide polymers join to form a double stranded molecule
+    - This occurs due to hydrogen bonding between the nitrogenous bases
+    - Complementary base pairing rule:
+        - A bonds with T or U (in RNA) - two hydrogen bonds
+        - C bounds with G - three hydrogen bonds
+    - DNA strands are anti parallel
+        - %LOCAL_FILE%eXSwaDyQpZOnSPPHNuntcMnDPHYDd9oZ8_SHbpwNm4l3jDwmy7k-ZeT7Ko8AImJw8ic9sQiYb34NSPjmfucPuu3aaCHFUkHqFU3pjKrd0ea-O3_edHnl7CiDNbidQ1Fg.png 
+- RNA
+    - 3 types of RNA in all cells
+        - Messenger RNA (mRNA)
+            - Transcribed from DNA
+            - Enables the genetic info decoded in DNA to reach a ribosome where it can be translated into protein
+            - Complementary copy of the DNA
+        - Transfer RNA (tRNA)
+            - Carries amino acids to ribosomes during translation
+            - Has an amino acid binding site at one end and an anti-codon at the other
+        - Ribosomal RNA (rRNA)
+            - The structural component of ribosome
+            - Produced in the nucleolus
+        - %LOCAL_FILE%yU9dAKS1775SznnQ6BA8gW4KRR2Zj4uf5e9CRVijV7Yyu0L6O8Qi51xLwornYOlfd84SmcvjWQZ__t3LFFrp3lb-RNmJptyDKjXxeaVkzilOKCwO-URLspOdfu1Sv7Pv.png 
+- Genetic code
+    - Gene: a segment of DNA that codes/instructs for a certain polypeptide's production
+    - 3 consecuative bases in DNA = triplet
+        - DNA triplet gets transcribed into a RNA codon (three consecuative RNA bases)
+        - Each RNA codon codes for one amino acid
+        - Each codon is translated into a sequences of amino acids to be joined together into a polypeptide (protein) chain
+        - Therefore, each DNA triplet codes for one amino acid molecule to be inserted into a polypeptide
+    - %LOCAL_FILE%IS0KcexzflT6D7Rn6asEHRVtlDcrRnYhjLaIF5ZCLtWOFudcAYBK4U7rVeguknzo0dcIlocspI67rmxNLMYAsx3mQasOpIipryww00BxWcEj9_goMSORqj7apZT7zyFC.png 
+    - More than one triplet can code for the same amino acid molecule, therefore we refer to DNA as degenerate (redundant)
+    - There are stop triplets/codons that don't code for any amino acid but instead designate where the polypeptide chain aends
+    - There is a start triplet, TAC (codon AUG), which always codes for the amino acid methionine and designates the beginning of the protein molecule
+    - Eukaryotic DNA is stored as chromosomes within the nucleus
+        - Humans have 23 pairs of chromosomes
+        - Chromosomes are made of tightly condensed chromatin
+        - Chromatic is composed of DNA wrapeed around histone proteins
+        - %LOCAL_FILE%C5HcELkb5XB0ZFYeC5A5WsXTBwO1CJyYpLHG3Xx8anbnqFoivcMUtdW266wS5iMFG4lFbVFYZp50YltfneTByd-pKywtYPl3foujJgSQt38LkA4rblgwy0TwJPbQ8uET.png 
+    - Prokaryotic DNA is gound in a singular circular chromosome contained in a central area known as the nucleoid
+        - Prokaryotic DNA does not contain histones
+        - Prokaryotes contain small circular pieces of DNA called plasmids
+    - %LOCAL_FILE%1Tjj_8sykkAF9fWN53nAXbjOv-DFTzxKTM-tVPFO1czLMjxpgB9sosJndcq7mxnSPY5wVGwzrqbXAb62FZS68fsLoXj2T-l_IdsGWE-SRYQI_O7_Jiw1npn4aFFtPuN_.png
+    - RNA nucleotide
