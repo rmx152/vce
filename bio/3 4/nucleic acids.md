@@ -4,7 +4,7 @@
     - A phosphate molecule
     - Deoxyribose sugar
     - Nitrogenous base (Adenine, Thymine, Cytosine, Guanine)
-    - [%LOCAL_FILE%9I6Jq4SPFDmKgPcmGbGjbimyfrfMySTzPnvxZYhPcYxMb9GiyL4qfoEXujA7AYw83iLIv4r2YUxISN709I7wrNx5UrreEUQKFexNJNZKLrfg8-EUrVYiBoV0dywxano7.png](https://www.remnote.com/w/64929993a943e546f852babb/3rzl3JkdPLEQIzgeW)EUrVYiBoV0dywxano7.png 
+    - ![[DNA monomer.png]]
 - Monomer of RNA is made up of
     - A phosphate
     - Ribose sugar
@@ -16,7 +16,7 @@
     - RNA has ribose, DNA has deoxyribose (1 less oxygen than ribose)
     - DNA is double stranded, RNA is single stranded
     - RNA does not contain thymine, it is replaced by uracil
-    - %LOCAL_FILE%CPRklQzAXFCMYwH-QJGBqwJ6x38caw-gPMR0sEaIKLIETB4JMQ-6q2209P3tskCvSQ2QW8nYbx93iLYWssyP-fHJZwgqwVFkIId_tndVO-0lsB6B7TKmiY4Lu5mk7-Yj.png 
+    - ![[DNA v RNA.png]]
 - Adenine and Guanine are purines, due to two rings
 - Pyrimidines are the rest, containing only one ring
 - Nucleotides join to form a polymer (single strand of DNA)
