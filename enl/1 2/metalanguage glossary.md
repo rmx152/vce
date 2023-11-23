@@ -14,7 +14,7 @@ Other 
 Referential : Information conveyed 
 Conative : Persuade or influence
 Emotive : Language to express emotion
-Phatic : To establish a social connection without communicating information
+Phatic : To establish a social connection without communicating information (E.g uses a emoji to soften meaning)
 Metalinguistic : Comment to clarify meaning of speech 
 Poetic : An aesthetic way of writing
 
