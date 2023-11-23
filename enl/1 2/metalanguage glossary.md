@@ -10,6 +10,16 @@ Semantics
 
 Other 
 
+Type of Functions
+Referential : Information conveyed 
+Conative : Persuade or influence
+Emotive : Language to express emotion
+Phatic : To establish a social connection without communicating information
+Metalinguistic : Comment to clarify meaning of speech 
+Poetic : 
+
+Purpose : Intent
+
 |                                                                          |             |                        |
 | ------------------------------------------------------------------------ | ----------- | ---------------------- |
 |                                                                          | Explanation | Example (where useful) |
