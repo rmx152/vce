@@ -20,6 +20,16 @@ Poetic : An aesthetic way of writing
 
 Purpose : Intent
 
+**Places of articulation**
+Bilabial : using both lips 
+Labio-dental : using the lower lip and upper teeth 
+Dental :
+Alveolar : 
+Alveopalatal :
+Palatal :
+Velar :
+Glottal :
+
 |                                                                          |             |                        |
 | ------------------------------------------------------------------------ | ----------- | ---------------------- |
 |                                                                          | Explanation | Example (where useful) |
@@ -208,6 +218,3 @@ Purpose : Intent
 |                                                                          |             |                        |
 |                                                                          |             |                        |
 |                                                                          |             |                        |
-
-  
-**
