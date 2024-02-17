@@ -1,0 +1,145 @@
+- Title
+    - Concise, informative and appropriate to the the prac
+    - 'The effect of temperature on the rate of breakdown of starch by the enzyme amylase'
+- Introduction
+    - Background information
+        - Previous studies etc
+        - What do we already know about the topic
+    - Rationale behind conducting the experiment
+        - Why is my study relevant?
+        - What gap in current knowledge does it address?
+    - Aim
+        - What am I investigating?
+        - The aim of this experiment is to investigate the effect of [IV] on [DV] / To investigate the effect of [IV] on [DV]
+            - 'The aim of this experiment is to investigate the effect of temperature on the rate of starch breakdown by amylase'
+    - Hypothesis (an educated guess which predicts what will occur in your experiment in terms of the IV and DV)
+        - What outcome do I expect?
+        - If [IV] decreases, then [DV] increases
+        - Do not need to justify
+            - 'If temperature increases then the rate of starch breakdown by amylase will increase'
+            - 'If temperature decreases then the rate of starch breakdown by amylase will decrease'
+            - 'When the temperature is at 20 degrees the rate of starch breakdown by amylase will be highest'
+    - 150-200 words
+- Method
+    - Use past tense
+    - Include:
+        - An experimental and control group
+        - A large sample size or repeat the experiment (or both, ideally)
+        - How you are manipulating the IV
+        - How other variables (not the IV) are being controlled
+        - How you are measuring/detecting the outcome
+    - 100 words
+        - For an experiment where the osmotic activity of water in potato cells is analysed when placed in different solutions
+        - 400mg of NaCl (Sodium Chloride - Salt) was placed into a beaker filled with 150mL of water
+        - The potato cell was placed in the hypertonic solution prepared. The potato cell was left in the solution for 20 mins.
+        - The potato was then taken out of solution, dried and weighed
+        - etc…
+- Results
+    - Describe/Present the data collected in the experiment
+    - Consider best way to display the data (table/graph etc)
+        - Include units and label axes
+    - Types of data
+        - Qualitative data: descriptive data
+        - Quantitative data: data that includes numerical measurements
+    - Preferable to use quantitative data as it is exact, replicable, reliable and allows for statistical testing
+    - 100 words
+- Graphs
+    - Title: identifying dependent and independent variables
+    - Axes: labels for both horizontal and vertical axes
+    - Axis scale and units: a numerical scale with appropriate units on the axes if data obtained is quantitative
+    - IV is x, DV is y
+    - Key: necessary if there are multiple graphs on a single set of axes
+        - ![](https://remnote-user-data.s3.amazonaws.com/M0yHjIbVbI6hqcaHPQ-v7MCkdqVneNVR1atEVgseGd2kb1eq8-bgsVnWiTFBWdkOrPsrHvx_MhMX_HaBJAiD-GZLMGQbooOdbInSEZpnrEPdPfKQyTMNKwCdDzhYcYii.png)
+- Discussion
+    - Analyse data and describe its meaning/significance
+        - Was the hypothesis supported or not? (NOT ‘PROVEN’!)
+            - If not, what may be an explanation for your results?
+        - Were there any experimental errors that could have affected your results? (random errors, systematic errors) (how could these be improved)
+        - Any sources of bias?
+            - Objective vs subjective testing
+        - Can you relate your results to current theory/concepts or past studies?
+    - Directions for future research
+    - 500-600 words
+- Conclusion
+    - Directly answer research question
+    - No new information is included
+    - Keep short
+    - Example
+        - ‘The aim of the experiment was to (aim). Through analysing the (DV) in response to changing the (IV), it was found that (state results in relation to the aim). This (supported/did not support) the hypothesis.'
+- Independent v Dependent Variables
+    - Independent variable (IV): the variable that is manipulated by the experimenter to examine its effect on the dependent variable
+    - Dependent variable (DV): the outcome variable; the variable that is measured on the experiment and has been effected by the independent variable
+    - Example
+        - in an experiment examining whether the accuracy of peoples long-term memory decreases with age:
+            - IV: Age
+            - DV: Accuracy of memory
+- Controlled v Uncontrolled Variables
+    - Uncontrolled variables (extraneous variables): variables other than the IV that could also influence the DV
+        - We need to avoid these in experiments because it means that we can’t be sure whether it is the independent variable or another variable that is causing the change in the dependent variable
+        - A variable that was uncontrolled and then indeed influences the DV is called a confounding variable
+    - Controlled variables: variables other than the IV that could have effected the value of the DV but have been taken into account in the experiment, and their effect eliminated, so that they will not effect the DV
+        - E.g. ensuring that temperature remains constant across all conditions in an experiment (unless it is the IV)
+- Reliability v Validity
+    - Reliability: if the experiment was done again, would the results be the same?
+        - Consistency
+        - It’s important to use large sample sizes or conduct the experiment multiple times as this minimises the impact of random errors
+        - Can be written as reproducibility and repeatability
+    - Validity: does the experiment actually measure what we want it to/what we claim it measures?
+        - Validity is achieved by having a good experimental design
+    - ![](https://remnote-user-data.s3.amazonaws.com/1ARgFTE-V6rW_V7rT0oQDtUU_SQkew4t8Wr6lll3ySozfwLzj2hzIEfnuS547JnW5E6n-gCJBJoa-9YYqX9dtco5vELz9rPfhDh5PLSBChZdfe_0RVwrdxauR0xGtR8s.png)
+- Reproducibility + Repeatability
+    - Repeatability: the closeness of the agreement between the results of successive measurements of the same quantity being measured, carried out under the same conditions of measurement
+        - Can this measurement be repeated by the same person in the same conditions?
+        - Same time, same place
+    - Reproducibility: the closeness of the agreement between the results of measurements of the same quantity being measured, carried out under changed conditions of measurement
+        - Can this experiment be reproduced by another group of researchers at a different time in a different setting?
+        - Different time, different place
+    - The goal for both is to get the same results after repetition
+- Accuracy + Precision
+    - Accuracy
+        - The degree to which our data matches what actually happened
+            - Inaccurate if our Data says we collect 21mL instead of the actual 20mL that was produced
+    - Precision
+        - How sensitive is the measuring equipment/experimental setup
+            - Our measurements are able to differentiate if the flasks temperature varied between 30 and 31 degrees but not between 30 and 30.05. If this is the case our setup may not be precise enough to measure minute differences due to small temperature changes
+- Random errors
+    - These errors caused by external factors that are truly variable i.e. slightly different atmospheric pressure or temperature or uncertainties in measuring equipment
+        - Scales with a +/- 0.01g tolerance
+    - To negate these random differences we use large samples sizes, repeat experiments and average results where we can
+        - In 5 different repetitions of the previous experiment you may get 20mL, 21mL, 19mL, 20mL and 22mL.
+            - If we average these we get, 20.4mL, closer to the actual value via repetition and averaging
+- Systemic errors
+    - Cause a consistent yet inaccurate result
+        - A measuring cylinder which has been marked slightly wrong so every 10mL interval actually measures 11mL, it is consistently 10% above the stated value
+- Bias + Human error
+    - Bias
+        - When you consciously or unconsciously treat experimental or control groups differently in order to influence the result of the experiment (some of us would be very familiar with this one)
+        - Some ways to eliminate bias include making quantitative measurements whenever possible, the experiment to be repeated by a different researcher etc.
+    - Human error
+        - Whilst a legitimate source of error, try to not mention this in your reports as “I spilt half the contents of my beaker because my mate tripped me for a laugh” can easily be refuted by your teacher telling you you should've just repeated the experiment again
+- Ethical Principles
+    - integrity
+        - the honest reporting of all sources of information + communication of results
+        - not lying / manipulating results or information in order to make your research look better
+        - allowing your work to be criticised
+    - justice
+        - fair consideration of all groups involved
+        - not creating an imbalance of access between different groups of people
+    - beneficence
+        - maximising benefits + minimising harm for those involved / affected by the research
+    - non-maleficence
+        - avoiding causes of harm
+        - sometimes causing harm in research may be unavoidable, so in that case the benefits must outweigh the risks
+    - respect
+        - consideration for individuals’ welfare, liberty + autonomy, beliefs, perceptions, customs, and cultural heritage
+        - protecting those affected by research, ensuring they are comfortable, valuing people, patients, animals etc.
+- Approaches to Bioethics
+    - Consequences-based
+        - the outcome is what is considered of highest importance
+        - objective is to achieve a positive outcome, with minimal negatives
+    - Duty-based / Rule-based
+        - the way in which individuals act is considered of highest importance
+        - individuals must behave ethically, despite what the consequences / outcome may be
+    - Virtues-based
+        - the individual’s moral character is considered of highest importance
+        - decisions are made based on what good morals are

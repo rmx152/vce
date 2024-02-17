@@ -30,6 +30,8 @@ Palatal :
 Velar :
 Glottal :
 
+Semantic broadening : a type of semantic change by which the meaning of a word becomes broader or more inclusive than its earlier meaning
+
 |                                                                          |             |                        |
 | ------------------------------------------------------------------------ | ----------- | ---------------------- |
 |                                                                          | Explanation | Example (where useful) |

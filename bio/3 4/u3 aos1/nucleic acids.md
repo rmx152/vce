@@ -15,15 +15,14 @@
 - DNA vs RNA
     - RNA has ribose, DNA has deoxyribose (1 less oxygen than ribose)
     - DNA is double stranded, RNA is single stranded
-    - RNA does not contain thymine, it is replaced by uracil
-    - ![[DNA v RNA.png]]
+    - RNA does not contain thymine, it is replaced by uracil![[DNA v RNA.png]]
 - Adenine and Guanine are purines, due to two rings
-- Pyrimidines are the rest, containing only one ring
+- Pyrimidines are Thymine and Cytosine, containing only one ring
 - Nucleotides join to form a polymer (single strand of DNA)
 - The phosphate group of one nucleotide covalently (shares electrons) bonds with the deoxyribose sugar of the next nucleotide
 - Condensation polymerisation reaction (one water molecule is released every time)
 - DNA and RNA are directional (the end with the free phosphate is the 5' end)
-- Dna is double stranded
+- DNA is double stranded
     - Two nucleotide polymers join to form a double stranded molecule
     - This occurs due to hydrogen bonding between the nitrogenous bases
     - Complementary base pairing rule:
@@ -65,3 +64,4 @@
         - Prokaryotes contain small circular pieces of DNA called plasmids
     - ![[RNA v DNA nucleotide.jpeg]]
     - RNA nucleotide v DNA nucleotide
+    ![[summary dna rna.png]]
