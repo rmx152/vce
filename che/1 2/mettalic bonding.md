@@ -35,3 +35,21 @@ Metal Recycling
 	Resources are at risk of becoming scarce due to growing global population and rising prosperity levels
 	Available resources therefore must be used as efficiently as possible
 		A transition from a linear economy towards a circular economy is increasingly being adopted by society and industry as a strategy to achieve more sustainable development
+	A circular economy
+		 is when the materials and resources from a product are returned into the current economy which is a closed product cycle. 
+	A linear economy 
+		on the other hand is when a product is essentially disposed of in landfill after it has been used.
+	Chemistry and its contribution
+		The creation, use, re-use, disposal and elimination of chemicals should be achieved with the least possible adverse effects on human health and the environment while still providing economic and social benefits
+	Green chemistry
+		**![The Twelve Principles of Green Chemistry: What it is, & Why it Matters –  Compound Interest](https://lh7-us.googleusercontent.com/GvSBYdQEwW88z84-f6bQmG3WXyD-Wv97RGjy9UVmvsOIQWhuS9BA56uAvpx4syPgnpjUYEbiE7uVNsxAaikSbwzTSWDWuNbMTZQCXN5Z00FtjgAjq9mk9o3biPEheZzcVZ5A3_ZyR3f523e8jFh1OMDmc9P582dF=s2048)** Atom economy
+			Processes/pathways should be designed to maximise incorporation of all reactant materials used in the process into the final product. 
+		Use of renewable resources
+			feedstocks: Raw materials or feedstocks should be made from renewable (mainly plant-based) materials, rather than from fossil fuels, whenever practicable. 
+		Prevention of wastes
+			It is better to prevent waste than to treat or clean up waste after it has been produced.
+		Design for energy efficiency
+			Processes/pathways should be designed for maximum energy. 
+	Indium research
+		Indium is often mined with other resources, and separated at refineries that are not equipped to manufacture indium. This results in transportation to indium refineries. This cost can be removed by adding indium refining capabilities to refineries of common metals that are mined alongside indium, such as zinc. 
+ 

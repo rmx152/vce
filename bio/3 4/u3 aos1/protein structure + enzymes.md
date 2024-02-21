@@ -28,13 +28,16 @@
     - Proteome
         - The complete set of proteins produced by a cell/organism
         - Proteomics = the study of the proteome
-        - The presence of certain proteins cna be markers of illness
+        - The presence of certain proteins can be markers of illness
         - Proteins don't function individually but interact with many other proteins within organisms/cells
-    - Sub-unit (monomer): amino acid Polymer: polypeptide ![](https://remnote-user-data.s3.amazonaws.com/00ItkOVgcGPfFTqbjZVg4wS5P4WSMZrNpEdmE7mWJFgs93NPk13ivdFmvn8ecFjHC2qBWs0cq7TSts-rNhxzrf1UtCEgsYZy95yLLemb5H4vSeJqMEQCN6Ku-OB7I_qW.png)
+    - Sub-unit (monomer): amino acid 
+    - Polymer: polypeptide 
+    - Monomer : ![](https://remnote-user-data.s3.amazonaws.com/00ItkOVgcGPfFTqbjZVg4wS5P4WSMZrNpEdmE7mWJFgs93NPk13ivdFmvn8ecFjHC2qBWs0cq7TSts-rNhxzrf1UtCEgsYZy95yLLemb5H4vSeJqMEQCN6Ku-OB7I_qW.png)
     - Primary structure
         - The sequence of amino acids in the protein molecule
         - Peptide bonding between amino acids
-        - Protein molecule is directional - N (amino) terminus at one end and the c (carboxyl) terminus at the other  ![](https://remnote-user-data.s3.amazonaws.com/ph4PwwVmDYVltDKTTjkwwW3lkcbxoA29UMyoBM64UEf5piIANdifqh1DK4mju-ZjJGTcQMqpYPB0T3qAhr8LAGRYR4JJp84vj7RvFbmMWgDLMQPmb6aujXIUcSF_DCoq.png)
+        - Protein molecule is directional - N (amino) terminus at one end and the c (carboxyl) terminus at the other 
+           ![](https://remnote-user-data.s3.amazonaws.com/ph4PwwVmDYVltDKTTjkwwW3lkcbxoA29UMyoBM64UEf5piIANdifqh1DK4mju-ZjJGTcQMqpYPB0T3qAhr8LAGRYR4JJp84vj7RvFbmMWgDLMQPmb6aujXIUcSF_DCoq.png)
     - Secondary structure
         - Localised coiling and folding resulting from bonding between peptide groups
         - Hydrogen bonds
@@ -55,7 +58,8 @@
         - Proteins made up of multiple polypeptide chains
         - Not all proteins have quaternary structure
         - More complicated molecules
-        - e.g. haemoglobin (has 4 sub-units) - allosteric protein ![](https://remnote-user-data.s3.amazonaws.com/o3ddMyDEhpaxdXbLylAWbuAHzOOU_wueko_z0SPq-czOBmAAyyf4u9PuZHEDl4bGPEvtLfNEpqQACc0S9GESv5L0D60MLoh2yrvSX5NuZtsgtfewjT7t_PgDy2IJ2iJP.png)
+        - e.g. haemoglobin (has 4 sub-units) - allosteric protein 
+        - ![](https://remnote-user-data.s3.amazonaws.com/o3ddMyDEhpaxdXbLylAWbuAHzOOU_wueko_z0SPq-czOBmAAyyf4u9PuZHEDl4bGPEvtLfNEpqQACc0S9GESv5L0D60MLoh2yrvSX5NuZtsgtfewjT7t_PgDy2IJ2iJP.png)
     - ![](https://remnote-user-data.s3.amazonaws.com/ku6dWGTtIBHJtGK7WtdIyd_3jb9YV97OzbD_YqLoTotMEYsUjmPtxm7KcqGBByMjdRmM1DJ3u1gi0O5-nehAw0PWGBtkgaao2BkjsV617jitAXmmtKbagjK5CYH4pmrh.png)
 - Protein function
     - Types of proteins
