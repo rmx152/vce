@@ -129,6 +129,8 @@ Open Word classes
 				Verbs can be copular, transitive, or intransitive
 			Auxiliary (primary) (modal) and Lexical verb
 			Finite v Non-finite (based on form)
+				Finite verbs are those verbs that agree with the subject and express the mood, tense, number and person. 
+				 Non-finite verbs do not agree with the subject and can be used in the present participle, past participle or infinitive forms to perform different functions in a sentence.
 			Phrasal
 				These are verbs that change their meaning when linked with a preposition or adverb in a phrase that can’t be split eg. The salesman looked up the prices.  / I always looked up to her. /The baby has gone off her food. He is carrying on about it. (usage: some, but not all, phrasal verbs are colloquial) 
 		Tense forms
@@ -371,10 +373,10 @@ Closed Word Classes
 			Overlap
 				There’s some overlap here (e.g. the words after, before, since, until, till.)
 				Look at the function. A subordinator will always be followed by a groups of words with a finite or non-finite verb. A preposition will be followed by a noun, a determiner+noun, or a pronoun.
-					He always has a shower after the match. (prep + determiner + noun)
-					He always has a shower after he plays football. (conjunction + subject + verb)
-					I got dressed before breakfast. = prep+ noun
-					Before having my breakfast, I got dressed.  = conj + sub + verb
+					He always has a shower (after) the match. (prep + determiner + noun)
+					He always has a shower (after) he plays football. (conjunction + subject + verb)
+					I got dressed (before) breakfast. = prep+ noun
+					(Before) having my breakfast, I got dressed.  = conj + sub + verb
 
 
 
