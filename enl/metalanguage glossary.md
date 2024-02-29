@@ -32,6 +32,16 @@ Glottal :
 
 Semantic broadening : a type of semantic change by which the meaning of a word becomes broader or more inclusive than its earlier meaning
 
+Aspect : A tense that needs a auxiliary to be created
+
+Direct object : 
+Indirect object :The verb is not directly acting on the indirect object, however
+
+Adverbial : Information about the action preformed (where, when)
+	I ran (intransitive) (on the oval)
+
+
+
 |                                                                          |             |                        |
 | ------------------------------------------------------------------------ | ----------- | ---------------------- |
 |                                                                          | Explanation | Example (where useful) |

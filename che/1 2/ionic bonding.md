@@ -88,7 +88,22 @@ Properties and structure of ionic compounds
 		As solids, ionic compounds cannot conduct electricity because their ions are bonded together in the lattice.
 		When molten or dissolved in water the ions can break free of the lattice and are able to move. The ions are charged particles and so can carry an electric current.
 		![[ion electrical conductivity.png]]
-
+Solubility of ionic compounds
+	Key terms
+		Aqueous
+			dissolved in water
+		Dissolved
+			Incorporated into a liquid to form a solution
+		Full equation
+			Chemical equation with all chemical species present
+		Insoluble
+			unable to dissolve in a given solvent
+		Ionic equation
+		Phase
+		Precipitate
+		Precipitation reaction
+		Solubility
+		Spectator ions
 
 
 

@@ -10,7 +10,7 @@
         When viral DNA enters the cell for the first time, a sequence of DNA (spacer) is incorporated into the bacterial genome within the CRISPR array
 	    If this same viral DNA enters the cell at another time, the bacterium will recognise the DNA due to the spacer that matches it
         This DNA spacer will be transcribed, becoming the guide RNA
-        This guide RNA joins the Cas9 enzyme to form the Cas9 complex, which will find the corresponding section of viral DNA and cleave it, effectively destroying the viral DNA and preventing infection
+        This guide RNA joins the Cas9 enzyme to form the CRIPSR-Cas9 complex, which will find the corresponding section of viral DNA and cleave it, effectively destroying the viral DNA and preventing infection
 	        CRISPR reactions inhibit the replication of bacteriophages
         CRISPR associated sequence genes
 			Adjacent to the CRISPR region are certain genes, called CRISPR-associated sequences (Cas).

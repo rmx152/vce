@@ -65,7 +65,7 @@
     - Types of proteins
         - ![](https://remnote-user-data.s3.amazonaws.com/MLQMcojwcvrkka791bte1pio3I8gk7kel2qQuSpGLBvg2cPJiFovrciHZ5pJctZlAE5-xbueNRSPW6z018DI3m_CcbTkHGQjAEarxC8nHNYMMcdaTKuKwOJy9Iysguq2.png)
         - ![](https://remnote-user-data.s3.amazonaws.com/Gq6-Pu6DbPglcXC3XUQ6T2kJpiB9y3ljQsMFLZiWEvKdnhydGBIcfpvzA_yMxMIkMrtKNXgRX_OW-ePbJKMGC5mBBYYXVrp5L56Cgq6VHkfNcMPdfKm1O2g9JXy3kJZg.png)
-    - Protein export
+    - Protein export/Cell exocytosis
         - ![](https://remnote-user-data.s3.amazonaws.com/siT_yPC448gZbBGDbp_u8UtUSK3GCBlc3nyMHfPg3m2j3XkOMkkL2YocwgeAsCp0KVlJScJyqej1w_AbvqwstbSG-Uv8zqu6TLz_k-HW8pmnW26wL45N2hrDMpdXQzTk.png)
 - Enzymes
     - What are enzymes
