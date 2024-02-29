@@ -39,7 +39,8 @@ Indirect object :The verb is not directly acting on the indirect object, however
 
 Adverbial : Information about the action preformed (where, when)
 	I ran (intransitive) (on the oval)
-
+(I ran)(to catch the bus)
+Independent, dependent clause
 
 
 |                                                                          |             |                        |

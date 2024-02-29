@@ -305,25 +305,37 @@ Closed Word Classes
 				A few general ordinals (next, last, other, further)
 	Prepositions
 		Meaning
+			These introduce prepositional phrases, and express relationships between elements of sentences.
 		Form
 			Place
+				at, on, by, opposite
 			Direction
+				towards, past, out of, to, through
 			Time
+				at, before, in, on
 			Comparison
+				as…as, like
 			Source
+				from, out of
 			Purpose
+				for
 			There's a overlap between prepositions and adverb, particularly adverbs of place or direction
-				I crawled through the wire 
+				I crawled through the wire = introducing a PP = preposition
+				I crawled through = answering the question ‘where?’ and modifying the verb = adverb 
 		Overlap
-			Words look like a preposition however function
+			Sometimes a word looks like a preposition but it may be functioning differently in the context of a sentence. 
+				I knocked on the door. = preposition (place)
+				I kicked in the door = ‘in’ there is part of a verb phrase ‘kicked in’
+			Thorne refers to this as a ‘particle’.
 	Conjunctions
 		Meaning
+			These may introduce phrases or clauses, or may combine or connect phrases or clauses. 
 		Form
 			Some grammars use the acronym 'Fanboys'
 				For, and, nor, but, or, yet, so. 
 				Coordinating conjunctions
-			This can include nor/either...or which allows us to create alternatives; and can intensify the meaning or add additional details
-		Coordinating conjunctions
+			This can include neither...nor / either...or which allows us to create alternatives; and can intensify the meaning or add additional details
+		Coordinating 
 			Function
 				Link words together
 					I don't like sweetcorn (or) peas
@@ -331,6 +343,43 @@ Closed Word Classes
 				Link phrases together
 					I have (neither) black trousers (nor) a red shirt
 				Link independent clauses
+					We went to town (and) we saw a film (but) we didn’t eat out (or) have a drink.
+		Subordinating
+			Form
+				They create a range of connections:
+					Time
+						when(ever), while, as, before, until, till, after, since, once, when
+					Place
+						 where, wherever
+					Purpose or result
+						so, so that, in order that
+					Reason
+						 because, as, since
+					Condition
+						if, unless, whether, supposing, in case
+					Contrast
+						although, while, whereas
+					Comparison
+						as, than, like, as if, as though
+					Concession
+						although, if, whereas
+			Function
+				Subordinating conjunctions link things together that don’t have the same grammatical status. They can link dependent grammatical units that don’t make sense by themselves to independent units that can stand alone.
+					I like ebooks (independent)	because I can download them easily. (dependent)
+					If I love the sun (dependent)	I should prefer summer to winter. (independent)
+					I went to town (independent) so that I could sort out the Christmas shopping. (dependent)
+			Overlap
+				There’s some overlap here (e.g. the words after, before, since, until, till.)
+				Look at the function. A subordinator will always be followed by a groups of words with a finite or non-finite verb. A preposition will be followed by a noun, a determiner+noun, or a pronoun.
+					He always has a shower after the match. (prep + determiner + noun)
+					He always has a shower after he plays football. (conjunction + subject + verb)
+					I got dressed before breakfast. = prep+ noun
+					Before having my breakfast, I got dressed.  = conj + sub + verb
+
+
+
+
+
 
 
 
