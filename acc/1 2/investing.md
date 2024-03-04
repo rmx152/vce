@@ -15,3 +15,15 @@ Types of investment opportunities
 
 Risk vs Return
 	There is an inverse relationship between the security of a investment and the returns on that investment. ![[Risk vs Reward.png]]
+
+
+What is a small busines? p 10
+Support for a small business p11
+Who use financial informtion p13
+Forms of ownership p 60
+Franchises p 64-65
+Investing opportunities p 72-75
+Rates of return p 78-82
+Accounting elements (A,L,OE) p3 and p 27 
+Accounting assumptions (PAGE) p 16-17
+Qualitative characteristics (TURF-CV) p 14-15

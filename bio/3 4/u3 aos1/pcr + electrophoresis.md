@@ -1,0 +1,61 @@
+- Polymerase Chain Reaction
+    - PCR is a molecular technique where DNA is amplified (copied)
+    - Essential for large quantities of DNA
+    - Parts
+        - DNA primers
+            - Short single stranded DNA segments that are complementary to part of the section of DNA that is going to be copied
+        - DNA nucleotides
+            - Synthesise new DNA strands
+        - Taq polymerase
+            - DNA polymerase from the bacteria Thermus aquaticus
+                - Can withstand high temperatures, which is required for PCR 
+        - The DNA sample
+    - Steps
+        - The PCR mix containing the DNA sample is heated to 95 degrees Celsius
+            - Denaturation: The heat energy breaks the hydrogen bonds between the strands of DNA causing them to dissociate and become single stranded  
+        - The sample is then cooled to 55 degrees Celsius
+            - Annealing: The primers are now able to anneal to the single stranded DNA
+        - The sample is heated back up to 72 degrees Celsius
+            - Elongation: This temperature allows the Taq polymerase to synthesise new DNA strands utilising the primers
+        - The process is repeated many times
+            - Creates larger quantities of DNA
+    - Applications
+        - Forensics
+        - Genetic testing
+        - Identification of pathogens
+        - Research
+- Gel Electrophoresis
+    - A process often conducted following PCR that allows DNA molecules to be sorted based on their molecular weight/size
+    - It moves to the positive side because phosphate is negatively charged. A loading buffer is also used because the slight negative charge will migrate the same direction as DNA, allowing users to monitor the progress of molecules moving through the gel
+    - A dye tracker is added that is mutagenic and fluorescent which allows it to bind to the DNA and be visible under UV light.
+    - Steps
+        - DNA samples are loaded into wells in the gel
+        - An electric charge is being run through the gel (negative electrode at the wells, positive electrode opposite to the wells)
+        - The DNA moves towards the positive end
+        - The gel is porous, and the DNA must move through these pores, therefore larger/longer segments of DNA move more slowly than smaller pieces, allowing the segments to seperate out based on size
+        - Fragments are stained so that they can be seen 
+    - Applications
+        - Forensics
+        - Paternity/Maternity tests
+        - Genetic testing
+- DNA profiling
+    - DNA is unique (other than identical twins, who contain the same genotype)
+    - Unique segments we use for DNA profiling are called short tandem repeats (microsatellites)
+    - STRs
+        - They are certain segments in our DNA containing repetitions of ~3-5 base pairs
+        - These STRs can contain anywhere from 5 to >100 repeats
+        - These are found at many deferent loci in our genome
+        - They are often found between two individuals, however the difference is the number of repeats
+        - The different number of repeats of different alleles are considered
+    - In Australia our forensic investigations use 9 STR loci and a sex marker in order to identify individuals through DNA profiling
+        - The more loci used, the more accurate
+        - Each STR loci may have many alleles, each allele contains a different number of repeats
+    - The process is highly accurate, with the chance of two people having the same genotype improbable
+    - Procedure
+        - Take a DNA sample from the individual and preform PCR on the sample
+            - The primers used are designed to copy the DNA segments at the specific STR loci
+        - Separate by size DNA fragments using gel electrophoresis
+        - Use different fluorescent markers to identify the alleles of each STR locus
+        - Can therefore determine the genotype of the individual at each locus
+            - All of the genotypes together make up the DNA profile of the individual
+

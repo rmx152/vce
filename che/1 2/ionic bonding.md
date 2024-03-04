@@ -99,11 +99,82 @@ Solubility of ionic compounds
 		Insoluble
 			unable to dissolve in a given solvent
 		Ionic equation
+			Equation showing the net state changes in ions
 		Phase
+			Distinct form in which matter can exist
 		Precipitate
+			Solid compound formed in a precipitation reaction
 		Precipitation reaction
+			Chemical reaction resulting in the formation of a solid form in the aqueous solution
 		Solubility
+			Ability to be dissolved in a given solvent
 		Spectator ions
+			Aqueous ions that do not change state throughout a reaction
+	What is a solution? What is a solute and solvent?
+		A solution is a homogenous mixture of two or more different substances where one is dissolved in another. 
+	    When water is used to dissolve a solid, liquid or gaseous substance, an aqueous solution is produced. In an aqueous solution, particles can dissociate and move freely. 
+	     Solute is the substance dissolving into the solvent. In aqueous solutions, water is always the solvent. 
+	     ![](https://lh7-us.googleusercontent.com/AkgfztgpfY6FcH-Mh7rJvMdYSNkkL1QcwfX8dr_YzkFRO6UGb_zMb362NSqM3DuPPgdfL1HomIbGQgB4X5d-QmE-K4g43iTxZJcT3w85-cLhekudu208HojC6zReAbxaWtTAhIsV6y2ih8okU8LY0ZZQjiNpEXtH=s2048)
+	What type of intermolecular forces are involved in a solution?
+		When a substance dissolves, there are three different kinds of intermolecular forces that need to be considered:
+			1. Intermolecular forces between solvent particles (H2O).
+			2. Intermolecular forces between solute particles (ions in ionic compound).
+			3. Intermolecular forces between solute and solvent particles (ions and H2O).
+		For a solute to dissolve
+			The solute-solvent (ion and water) intermolecular forces must be stronger than the solute-solute (ion-ion) and solvent-solvent (H2O-H2O) intermolecular forces. 
+		![](https://lh7-us.googleusercontent.com/FkXkLFdm5zT8kYZnyz7e02EquRyN0tltXm7I9xFHHrPwkV10yupIRMWSEHK8k7jH6UgIJZQpQlZIitUSQUAPsw-SbwOEfINM1vk69WOrd_q2XAQA-E2s3uDSyhOaNS4QX99d3Ng9bFxPYuem0tRIjaaMJO5YoMRZ=s2048)
+	Insoluble ionic compounds
+		Insoluble ionic compounds do not dissolve in water because the bonding between ions and their neighbors is too strong. 
+		The possible ion-dipole bonds that could be created between ion and water molecules is too weak. 
+		Therefore a bond between ions and water molecules are ions cannot be made, and so the compound stays insoluble. 
+	The Solubility Rules
+		![[solubility rule real.png]]
+		![[solubility table.png]]
+Precipitation reactions
+	Double displacement reactions and Precipitation reactions
+		Ionic compounds can take part in double displacement reactions, whereby the ions of two ionic compounds ‘swap’ their ions for each other. 
+		A precipitation reaction is a type of double displacement reaction.
+		A precipitation reaction occurs when two aqueous solutions are added together, and an insoluble solid precipitate is formed. 
+		The aqueous solution left behind is called the supernatent
+		![](https://lh7-us.googleusercontent.com/KPAhAAArFFihGW2VBBaV0oNniH45_61Ph8rnqfawv_OXnT3kXt6ndzFoJwoliMUdIBEN3AmYaegRgxkGKzQlzdvCkEapfBcmv6r2dv1-F6LMjuymeEr2LdC9gRs_t1A5oqIBLqPwZ7dNDViXQlH07WgYKbENylle=s2048)
+	Predicting if a reaction is a precipitation reaction or not
+		Being able to predict the products of a precipitation reaction revolves around your understanding of the solubility rules.
+			If an insoluble precipitate forms, a precipitation reaction occurs.
+			If there is no insoluble precipitate formed, then no reaction occurs
+	How do we write a precipitation reaction?
+		1. Establish the products formed because of the exchanging of ions between the reactants.
+		2. Write the chemical formula for each product.
+		3. Check your states – is this a precipitation reaction?
+		4. Ensure that both the reactant and product side have the same number of atoms of each element by balancing the full equation.
+	Steps in Predicting a Precipitation Reaction
+		Swap the ion partners and look at your solubility rules - is there a combination that forms an insoluble solid?
+		![[precip.png]]
+		![[pred.png]]
+	No precipitation reaction
+		![[nprec.png]]
+	Examples
+		Pb(NO3)2 (aq) + 2KCl (aq) -> PbCl2 (s) + 2KNO3 (aq)
+		Hg(NO3)2 (aq) + 2KCl (aq) -> HgCl2 (s) + 2KNO3 (aq)
+		Pb(NO3)2 (aq) + 2KOH (aq) -> 2K(NO3)2 (aq) + Pb(OH)2 (s)
+Ionic Equation
+	So far, we have been looking at fully balanced precipitation equations
+	Often, chemists want to zoom in on the details of what is happening in a reaction, to get a better picture of what particles are reacting and what particles aren’t taking part in reaction
+	Full and net ionic equations are different way of writing equations and seeing what type of chemistry is happening
+	![[ionic equation.png]]
+	Examples
+		Between sodium chloride and silver nitrate
+			NaCl + AgNO3 -> NaNO3 + AgCl
+			Ag + Cl -> AgCl
+		Between sodium bromide and lead nitrate?
+			2NaBr + Pb(NO3)2 -> 2NaNO3 + PbBr2
+			2br + Pb -> PbBr2
+		Between sodium sulfide and copper(II) nitrate?
+			Na2S + Cu(NO3)2 -> 2NaNO3 + CuS
+			Cu + S -> CuS
+		Between iron(III) nitrate and potassium hydroxide?
+			Fe(NO3)3 + 3KOH -> 3KNO3 + Fe(OH)3
+			Fe + 3OH -> Fe(OH)3
+		
 
 
 
