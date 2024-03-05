@@ -44,7 +44,7 @@ Open Word classes
 				The head word
 					a noun phrase may function in the clause as subject, object or complement
 						Comes after the verb, describes the subject 
-							e.g Om studies (a lot)
+							e.g (Om) (subject) studies (books) (Object) (a lot) (complement)
 						Copular verbs
 							Links a subject to a complement
 					e.g The (determiner) really (adverb) good (adjective) Jayesh (head word)

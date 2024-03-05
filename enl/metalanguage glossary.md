@@ -42,6 +42,10 @@ Adverbial : Information about the action preformed (where, when)
 (I ran)(to catch the bus)
 Independent, dependent clause
 
+gerund
+	I enjoy swimming
+	Verb functions as a noun
+
 
 |                                                                          |             |                        |
 | ------------------------------------------------------------------------ | ----------- | ---------------------- |
