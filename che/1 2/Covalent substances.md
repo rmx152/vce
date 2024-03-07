@@ -31,6 +31,12 @@ Covalent bonding
 				VSEPR Theory centers around the fact that electrons are negative and repel each other, so covalent bonding regions and lone pairs always arrange themselves so that they are as far apart from each other as possible.
 				Lone pairs of electrons repel bonding pairs to a greater extent than a bonding pair repels another bonding pair. 
 				![](https://lh7-us.googleusercontent.com/J0hYm7n2qT_I_XUSYb8G6Rz8rmvroJaudp20UGFmCY6is6MpK_VY1SX8EP4Z70AHj-BSKqamegxCn7BHDiWdX29qbG-jMvDpkM5ZBHMa2sXYPu6IfHpzS9qZHexGjrEWZFXD3Ie5AsKVLh6wfYfnzq1pmQ=s2048)
+				Exceptions
+					VSEPR Theory centres around the fact that electrons are negative and repel each other, so covalent bonding regions and lone pairs always arrange themselves so that they are as far apart from each other as possible.
+					![A picture containing clockDescription automatically generated](https://lh7-us.googleusercontent.com/HqPSlj0OA6RB2pOqgPiKvSLqz4mO_MeE_38FecG6xbRsB-5IEdJhUIgo2SNGWeSaPW3baKoSGNzd-IuiO5aMvQ460d_HR86FjL6LpBYX5AUQGDRmWkbi8YE_8KSnj1sD-Pz9rUQxBII6BIJFyOnxjyAZjzAHqQvx=s2048)
+					Carbon dioxide does not contain 1 bonding pair and 3 lone pairs. However, it is linear because it has 2 =‘s, to create maximum separation it must adopt a linear shape
+					![A close up of a deviceDescription automatically generated](https://lh7-us.googleusercontent.com/_XnScbfrvUMoGqwfBEJj6YQ6pztmhy0CZteDZset70NvQpszy0u2vg6RTBaG5Li3Mmij5lGAGNHnDtA_C_V78zDg3fSf5nUGplw7YcZhpviUezI-xi7UFPn4EWJD3lf_5irQS5RLWBR12Fww-oES5gkqSmThb17O=s2048)
+					Hydrogen cyanide does not contain 1 bonding pair and 3 lone pairs. However, it is linear because it has 1 single bond and a triple bond, to create maximum separation it must adopt a linear shape
 			![](https://lh7-us.googleusercontent.com/u50HtwQKwyliYYHuKvEgnNUnzqS5fNv8hi7anPYABs9F4BUM9V2Hl3HpOw5ai_beJiHcgZkdzjIbgIIsbKZkFYp7-FDB9JQD3PTW-DZdgXyFbD8aFR8xOs8KcqW8_lgGYG-SgvPzUK8XBJW3-WRPZy6rMA=s2048)
 			![](https://lh7-us.googleusercontent.com/NPJAz-UJShfmER_p_srnOdjJqAXtvQl9XChD-4ehIXTsjrR9PlMwd7ilPGMQZeU_qOJgRAnumtWhfHCJZD3I78Rv3xbU7fmI4sXVgVpG1w3oRGfT7J6_EOWfdWQTPBs4RSTa0BMcG14YCUH70lGn_YmKGA=s2048)
 
