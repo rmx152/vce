@@ -161,11 +161,6 @@ How plants use light
 			![[cam plants.png]]
 		Summary
 			![[sum plant ty.png]]
-
-
-
-
-
 Example
 	In order for photosynthesis to occur, there must be sufficient movement of water into the chloroplast. Using your understanding of photosynthesis, explain how the chloroplast maintains a concentration gradient to continually bring water into the chloroplast (3 marks)
 		1. There is a high concentration of water outside of the chloroplast and a low concentration in the grana

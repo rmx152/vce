@@ -25,7 +25,7 @@ English sentences usually follow this format : Subject Verb Object
 Open class words : 
 Closed class words  :  Do not change much over time
 Lexicon 
-	sociolect 
+	sociolect  
 		lexeme 
 			Undergone semantic shift
 Idiolect : Individual use of language

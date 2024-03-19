@@ -13,15 +13,15 @@ Types of Phrases
 					eg. (the brown dog).
 				There may be adverbs that modify the adjectives in the noun phrase for instance (the very cranky bear) – here the adverb very modifies the adjective cranky.
 				Example
-					Eg. (a particularly obnoxious child)
-					Eg. (the dirty old white car)
-					Eg. (seven fat brown hens)
-					Eg. (an extremely expensive shiny red dress)
-					Eg. (the first female president)
+					eg. (a particularly obnoxious child)
+					eg. (the dirty old white car)
+					eg. (seven fat brown hens)
+					eg. (an extremely expensive shiny red dress)
+					eg. (the first female president)
 			Post-modification
 				There may be a prepositional phrase post-modifying the Head noun:
-					Eg. (the actor (from Game of Thrones))
-					Eg. (the man (at the centre (of the group)))
+					eg. (the actor (from Game of Thrones))
+					eg. (the man (at the centre (of the group)))
 				There may be a Relative Clause modifying the noun. Look out for the square brackets to denote a clause within this phrase as your example of this:
 					(The bear [that escaped from the zoo] )
 				Non-finite clauses (beginning with a participle [-ing, -ed] or an infinitive [to verb]) can also post-modify noun phrases.
@@ -36,9 +36,9 @@ Types of Phrases
 					eg. (The cat) ate (*the meat*).   (I) gave (*the cat*) (*some food*).  (The cat) scratched (*me*).
 				or **complement** (subject or object complement)
 					eg. (The cat) is (**a tabby**).
-					Eg.   (I) named (*the cat*) (**Baz**).
+					eg.   (I) named (*the cat*) (**Baz**).
 			Noun phrases can be placed in apposition.
-				Eg, Fred, my neighbour, is 84 today.
+				eg. Fred, my neighbour, is 84 today.
 			Analysing Noun Phrases
 				Some text types (legal language, for example, or some literary forms) use heavily modified noun phrases. This can a useful aspect of texts to analyse to look at how the language is functioning (for example, in a novel where the scene is being set) and also as a marker of complexity in the language (for example, in a legal text where every possible interpretation of a law needs to be listed and covered). 
 	Verb phrases (VP)
@@ -48,15 +48,15 @@ Types of Phrases
 			A verb phrase may incorporate another word in order to form a negative. 
 				eg. I would *never* eat a horse.  / He should *not* do that. / I had*n’t* been planning a meal.
 			In interrogatives and imperatives, the order of words in the verb phrase structure may be varied. We often use the auxiliary ‘do’ or ‘have’ to help form these sentence types:
-				Eg. Why did you come?    / Where do you come from ?  / Have you finished? Do take a seat.
+				eg. Why did you come?    / Where do you come from ?  / Have you finished? Do take a seat.
 		Function
 			These function as the verb element in a clause. 
 	Adverb phrases (AvP)
 		Form
 			The head of an adverb phrase is an adverb. Otherwise the structure is the same as with adjective phrases, with pre- and post- modification:
-				Eg. (very quickly)
-				Eg. (rather too quickly for comfort)
-				Eg. (more quickly   PP(than last year))
+				eg. (very quickly)
+				eg. (rather too quickly for comfort)
+				eg. (more quickly   PP(than last year))
 		Function
 			These function in a clause as adverbials.
 	Adjective phrases (AjP)
@@ -90,3 +90,77 @@ Types of Phrases
 				(By Monday) we had arrived (by train) (in Sydney).
 		Function
 			These behave as adverbials in clauses.  They can also post-modify noun phrases, adjective phrases and adverb phrases.
+Sentence structure
+	Coordination
+		I ate (the bread [that you bought for me])
+	Subordination
+		I ate (the bread) and (the cheese) 
+	Simple
+		Needs to have a finite verb
+		Known as a Main Clause
+		Examples
+			The cat sat on the mat
+			The guests arrived
+			She seemed angry
+			The cook made a larger stew for the evening meal
+	Sentence fragment
+		Some sentences don't have a full clause with all the required elements. Usually this is where a verb is missing
+		They are often used in advertising, where syntax is shortened to get the message across quickly
+			Going well!! (going is a non-finite verb)
+	Compound
+		A compound sentecne contains two or more main caluses linked by coordinating conunctions
+		FANBOYS
+			for
+			and
+			nor
+			but
+			or
+			yet
+			so
+		Each clause in a compound sentence that could stand on its own and carries equal weight. This is a coordination.
+		Examples
+			[The boy ate his dinner] and [he cleared the table]
+			[We could go to the park] or [we could visit the museum]
+			[Diya is good at English] but [she prefers English Language]
+		Substitution and Ellipsis
+			In a compound sentence the noun may be replaced by a pronoun in the second clause
+				[Dickens wrote many novels in his lifetime] and [he is still popular]
+	Complex
+		A complex sentence has one main clause and one or more subordinate clauses. A subordinate clause can't stand on its own as a grammatical sentence. 
+		These are various types of subordinate clauses based on their functions within the sentences
+			I went to the shops because I was hungry
+			I called my mother to wish her happy birthday
+			If I go now, I will miss all the fun
+			Running for the bus, I tripped over
+			It was my girlfriend who did my homework
+	Compound-Complex
+		If a sentence contains both coordination and subordination, then it is a compound-complex sentence
+			Because Jill fell over, her knee was sore and she needed a bandage
+			I wen to the kitchen to make a snack and ate a sandwich
+			The window broke when the ball smashed through it, so Pranav pretended that he had been inside the whole time
+Clause Structures and Functions
+	Types of Subordinate clauses
+		Noun clause (NCI) 
+			This can function as the subject or the oject element within a main clause/ There are two types: starting with 'that' or starting with a 'wh-' word (who/what/which)
+				eg. [(I) (decided) [that the essay was too long] ].
+				eg. [(I) (know) [what I should do] ].
+		Adverbial clause (ACl)
+		Relative clause (RelCl)
+		Comparative clauses (CompCl)
+			Starts with 'as' (equal comparison) or contains 'than' (unequal comparison)
+		Non-finite clauses
+		Verbless clauses
+			Feature of spoken English
+				eg. Lovely weather!
+				eg. What about a cup of tea?
+		
+Sentence types
+	Declarative 
+		Statements
+	Imperative
+		Questions
+	Interrogative
+		Commands, instructions
+	Exclamative
+		Exclamations
+		Not always full sentences
