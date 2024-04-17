@@ -47,14 +47,33 @@ Factors affecting the rate of photosynthesis
 		Competitive inhibitors can be reversed most of the time by increasing the substrate concentration as this knocks the inhibitor off the active site of the enzyme		
 			Note that inhibitors don’t stop the rate of a chemical reaction completely. The reaction can still occur just at a much slower rate
 		Some herbicides (plant killing chemicals) are inhibitors of photosynthetic enzymes, which leaves the plant unable to make its own food for survival
-Design an experiment
-	IV (including experimental groups), DV, CVs
-	IV : Light intensity (lumens)
-	DV : pH
-	CV : time (1 hour), temperature, water levels, type of plant, wavelength of light, 
-	A description of your experiment (instructions that someone can follow)
-	Expected results and what this would tell you about your chosen IV and the effect on photosynthesis
-	Don’t forget to consider the repeatability and reproducibility of your experiment
+CRISPR to improve photosynthetic efficiencies and crop yields
+	Photosynthetic efficiency
+		We rely on photosynthesis to produce food crops and the oxygen that we breathe
+		Photosynthetic efficiency is the fraction of light energy absorbed that is converted into chemical energy 
+		Terrestrial plants only have a photosynthetic efficiency of 1.8-2.2%, and changing climates are impacting this even further
+		The majority of plants grown are C3 plants who are tolerant of moderate temperatures 
+			🡪 these plants do not photosynthesise as efficiently as C4 or CAM plants with rising global temperatures
+	CRISPR-Cas9 and photosynthetic efficiency
+		To improve photosynthetic efficiency, many different modifications can be made to a plant
+		These include (but are not limited to):
+			Increasing the abundance of photosynthetic proteins (like Rubisco, chlorophyll proteins, ATP synthase)
+			Engineering C3 plants to bypass photorespiration, essentially making them similar to C4 and CAM plants
+			Increasing chlorophyll efficiency at photolysis of water for the light dependent reaction
+	Crop yield
+		CRISPR could also potentially be used to increase the yield from growing crops, therefore increasing the productivity of crops in limited land or growing conditions
+		Modifying genomes of important crop plants can allow them to resist environmental stresses that typically affect their yield
+			These stresses could be abiotic (non-living), such as drought, flooding, extreme temperatures, soil salinity, nitrogen availability or light intensity
+			They could also be biotic (living), such as pest species, competing weeds, and fungal infections
+	CRISPR in action
+		Rice is a major food crop and a dietary staple for much of the world
+		CRISPR-Cas9 is being used to target genes in the rice genome to improve both quality of the crop and yield
+		Parts of the rice plant that are being targeted include the grain size, number of rice grains per panicle (the cluster of branches that will develop into rice grains) and the quantity of panicles per branch
+		The difficulty around these modifications is that these traits are coded for by multiple genes rather than a single gene
+
+
+
+
 
 
 

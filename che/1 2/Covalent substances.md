@@ -171,6 +171,26 @@ Covalent bonding
 					Therefore they will have hydrogen bonds between each other, therefore soluble
 		 Non-conductivity 
 			 Covalent compounds do not conduct electricity; this is because covalent compounds do not have charged particles capable of transporting electrons.
+Covalent lattices
+	Allotropes 
+		Different physical forms of the same element
+	Diamond Covalent network lattice
+		Diamond is a crystalline lattice of Carbon atoms, with each carbon making four covalent bonds to other carbon atoms. 
+		The lattice is a repeating tetrahedral shape as each carbon is makes four covalent bonds with the surrounding carbon atoms.
+		Diamond is incredibly hard - one of the hardest compounds we have. 
+		Despite being so hard, it is brittle, and will fracture under force
+		Diamond cannot conduct electricity – it is an insulator
+		For a substance to conduct electricity, it needs to have free moving charged particles as part of its structure.
+		Diamond has no free moving charged particles - each carbon atom has all four valence electrons dedicated to covalent bonds and are locked in place.
+		![http://www.chemguide.co.uk/atoms/structures/diamond.GIF](https://lh7-us.googleusercontent.com/ZMO6Qd-QNu54Dgu8AT0qmwXq0XkQDHF1Ub6gkXSJsBKZI_LXwkMC4jVkj4DcL39j5bjRg57KZKTw06yV-u8jI2sIMi2vOzNXes3mNzFyGlw9WCBCEw3DlkE1JHR3iFtLkWWmA_-KUkTyJ-Jz9dj1V4IYcYnYgAXD=s2048)
+		![[diamond.png]]
+	Graphite - Covalent layer lattice
+		This produces a ring of six carbon atoms which join to form flat sheets. Graphite is made up of many of the layers. 
+		Each carbon atom is bonded to three other carbons. This is unusual - carbon usually makes four covalent bonds since it has four valence electrons. Since in graphite each carbon atom is only bonded to three other carbon atoms, each carbon donates one electron to what is referred to as a ‘sea’ of delocalised electrons.
+		Strong covalent bonds between atoms in a layer.
+		Weak dispersion bonds between layers. There is a substantial distance between the layers. These weak dispersion forces between layers allow the layers to easily slide over each other which makes graphite a useful lubricant. 
+		![[graphite.png|431]]
+		![[grphite.png]]
 
 
 
@@ -186,7 +206,9 @@ Covalent bonding
 
 
 
-		
+
+
+
 
 
 
