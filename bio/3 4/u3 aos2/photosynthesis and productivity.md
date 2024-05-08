@@ -71,7 +71,17 @@ CRISPR to improve photosynthetic efficiencies and crop yields
 		Parts of the rice plant that are being targeted include the grain size, number of rice grains per panicle (the cluster of branches that will develop into rice grains) and the quantity of panicles per branch
 		The difficulty around these modifications is that these traits are coded for by multiple genes rather than a single gene
 
-
+For each of the experiments conducted, design a modified method to test a different independent variable than what you tested (4 marks each)
+	Independent variable (mention the experimental groups and control)
+	Dependent variable + how it is measured
+	Brief description of the method (mention controlled variables)
+	Brief description of expected results
+What are the variables in this experiment?
+Outline the validity, accuracy, precision, repeatability, and reproducibility of the experiments. What's the impact on your data? How can they be addressed?
+Explain your results
+Draw diagrams of photosynthesis and aerobic respiration
+Draw graphs of your results
+Write the hypothesis for your experiments 
 
 
 

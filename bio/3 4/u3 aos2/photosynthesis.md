@@ -144,7 +144,7 @@ How plants use light
 			 In C4 plants, unique leaf anatomy allows carbon dioxide to concentrate in 'bundle sheath' cells around Rubisco. 
 			Mesophyll cells pump carbon dioxide straight into bundle sheath cells with Rubisco, effectively removing Rubisco’s contact with oxygen and the need for photorespiration. 
 			What's more, this adaptation allows plants to retain water through the ability to continue fixing carbon while stomata are closed.
-			![DiagramDescription automatically generated](https://lh7-us.googleusercontent.com/IG99L3gjH1toiaPKCH2MGyAnWWYlGUjWUzXpO_Dm9uuMp1REjlKs2-AN8Pf1YW88K6vZZKHHYruu-N78xtS5KBN2kt9c3kTzh_KP6PILMC0Bo80BmY_feLw93NaSZryhuXW1eFffh159_6x8Ux-_Pg=s2048)
+				![DiagramDescription automatically generated](https://lh7-us.googleusercontent.com/IG99L3gjH1toiaPKCH2MGyAnWWYlGUjWUzXpO_Dm9uuMp1REjlKs2-AN8Pf1YW88K6vZZKHHYruu-N78xtS5KBN2kt9c3kTzh_KP6PILMC0Bo80BmY_feLw93NaSZryhuXW1eFffh159_6x8Ux-_Pg=s2048)
 			![[132.png]]
 			Calvin cycle
 				C4 plants avoid photorespiration by using another enzyme called PEP during the first step of carbon fixation. 
