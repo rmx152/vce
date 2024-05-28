@@ -95,3 +95,17 @@ Language profile
 	When you were learning to speak, did you have any problems with particular sounds or words? If so, which?
 	Who talked to you most when you were a baby and toddler?
 	Are there any family stories about your use of language?
+
+One word stage
+	Baby only uses 1 word sentences
+Two word stage
+	Baby uses 2 word sentences
+Multi-word stage
+	Baby uses 3 or more word sentences
+
+Prosodic features
+	Pitch
+	Stress
+	Intonation
+	Tempo
+	Volume

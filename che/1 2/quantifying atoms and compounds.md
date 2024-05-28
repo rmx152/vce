@@ -23,6 +23,3 @@ Avagadro’s Constant
 			n = 5g / 63.55 g/mol
 				Calculate for the number of moles
 			n(Cu) = 0.079 mol
-		
-
-	

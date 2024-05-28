@@ -16,9 +16,63 @@ Pathogens
 	Many different types with different methods of infection and action
 	Types of pathogens
 		Viruses
+			Sub-microscopic, non-cellular molecules (range from 20-400 nanometres in diameter)
+			Have protein coats surrounding a core with either RNA or DNA (not both)
+			Needs to enter a cell in order to grow and replicate
+				uses the cell’s own machinery to produce many copies of the virus
+			Can affect virtually all cell types, even bacteria. Bacterial viruses are called bacteriophages and are especially small
+			![http://www.biology101.org/images/viral-shapes.png|372](https://lh7-us.googleusercontent.com/d3F6crocV-9nV5od36zEKkqCGLqJcsyhaWKiw8UowJnZ6maygLvTC_IZ_o2lATFeShKZ_iNJ8BIjaoNu2L3f76vY1PpP1tB-VSIXQ-ggUHYYmOvyXUrjdrKdhr1r3b-jqGENRta6-pA5gOMFfcmwJQ=s2048)![http://swh.schoolworkhelper.netdna-cdn.com/wp-content/uploads/2010/07/Viral-replication.gif?8f6eb6](https://lh7-us.googleusercontent.com/0Lqkpt0Rt-_jNZ__p9UYzoTrPICRHw6ZkFTZoSKtiTaTXEXdoFqqc4PKDx3yms-4LwtS1txrvkao_goA7UnvLdbJlXR5e7ibyJd4DgN1E-1Bl2xvYWQ9JIGpJdJoiWUeS458CvokOYlNnTQ0ouGvNg=s2048)
 		Prions
+			10 nanometres in size
+			Has no genetic material
+			Non-cellular
+			Infectious proteins that have the unique ability to reproduce on their own
+			Normal prion proteins exist in our bodies and are sensitive to being broken down (PrP-sen) 
+				naturally occurring in brain cells and thought to help neuron communication
+			Infectious prion proteins are made up of the same string of amino acids as PrP-sen but are resistant to breaking down (PrP-res) and can change PrP-sen into PrP-res upon contact
+			When the infectious prion protein touches the normal prion protein, there is a change in the secondary structure to create more infectious prions
+			PrP-res proteins tend to stick together, which over time can form long chains called amyloid fibers
+			Amyloid fibers are toxic to neuron cells and ultimately kill them
+			Astrocytes are cells that crawl through the brain and are responsible for digesting dead neurons 
+				they leave behind holes in the brain where the neuron used to be and leave behind the amyloid fibers
+			This keeps repeating until the brain can no longer function
+			Seen in Mad Cow disease (Bovine Spongiform Encephalitis), Creutzfeldt-Jacob Disease (CJD) and Kuru (spread by cannibalism in Papua New Guinea)
 		Bacteria
+			Prokaryotes
+			Bacteria are much smaller than our own body cells, being only about 1 micrometre in diameter.
+			Only pathogen treated by antibiotics  
+			There are different shaped bacteria;
+				rod-shaped called bacilli (sing. bacillus)
+				sphere-shaped called cocci (sing. coccus)
+				spiral-shaped called spirilla (sing. spirillum)
+				![](https://lh7-us.googleusercontent.com/EqsRZMn5LQUZDRalo7UVnYfaCJaUUYq3EX3Icvj1hfZt6O8e4eWsQJ5hLXW-aPaIpMuq8opbZztEUqA1Y_twHlZRmfB6B0oxYRXwB-gk7cvcyF3OfMu3t3j-k2fzKptuYbt9HDA9TQOZJTGkuRT3gg=s2048)
+			When bacteria join to form chains or clusters, each cell is still an independent organism.
+			Bacterial virulence
+				Some have flagellum used for movement
+				Some have a capsule (slimy surface) to  help with adhesion to a surface and helps evade the immune system
+				Bacteria have a cell wall made of peptidoglycan that protects it from damage
+					 the cell wall encloses the nuclear material of the cell 
+				Some bacteria produce toxins that are released into the extracellular fluid (like the botulism toxin released by Clostridium botulinum)
+				Some bacteria also produce endospores that allow them to disperse to new hosts even in extreme conditions
+			Groups of bacteria
+				Staining identifies structure of the bacterial cell wall
+				Gram staining depends on the amount of peptidoglycan in the cell wall
+					more peptidoglycan holds the dye from the staining to give a purple colour
+				Gram positve
+					(purple stain)
+				Gram negative
+					(pink stain)
+				![[detecting pathogens-20240513094458846.webp]]
 		Fungi
+			Can affect plants and animals 
+				Ringworm and tinea
+			Single (yeast, mould) or multicellular eukaryotes (mushrooms)
+			Range in size from 10 micrometres to 3.8km wide (the honey fungus of Oregon)
+			Produce spores and obtain food directly by absorption.
+			Sometimes classified as plants without chlorophyll 
+				have a cell wall of chitin
+			Some fungi obtain nutrients from the living cells of their host. 
+			Others secrete enzymes that kill the host's cells, and the fungi then live off dead and dying tissue. 
 		Protists
 			Kingdom Protista
 			Group of unicellular eukaryotic microorganisms 
