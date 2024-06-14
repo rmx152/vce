@@ -93,8 +93,7 @@ Third line of defence
 			Effector cells. Also known as Killer T-Cells
 			Takes action against intracellular threats (for example: virus infected cells) once stimulated by foreign antigens
 			Tc cells attach and directly lyse (split open) or kill target cells on the basis of their antigens
-			Releases perforin (to create holes in the membrane) and granzymes (enzymes kept in sac-like granules in the cell) that will bind to target cells and trigger apoptosis![[third line of defence-20240513090500894.webp]]
-		Killer T cells
+			Releases perforin (to create holes in the membrane) OR/(and) granzymes (enzymes kept in sac-like granules in the cell) that will bind to target cells and trigger apoptosis (granzymes) cell lysis (perforin)![[third line of defence-20240513090500894.webp]]
 			Cytotoxic T-cells directly target foreign cells with non-self MHC (this MHC acts as an antigen)
 			Even though transplanted tissue is closely matched for MHC markers, Tc cells are very effective at their job and may still destroy tissue if there is any non-matched MHC
 			Immunosuppressant drugs counteract Tc cells so that they cannot bind to antigens on the surface of transplanted cells and therefore kill this new tissue 

@@ -71,7 +71,12 @@ Linear Polymers and Cross-linked Polymers
 			Low-density polyethene (LDPE) thermoplastic polymer with a large number of side branches produced from the monomer ethene.
 			Its polymer chains support many long side branches, producing a low-density substance. As the only forces causing these polymer chains to attract each other are dispersion forces, the effect of the branches is to keep the chains apart. Because the attraction becomes weaker as the chains are further apart, the density of the resultant compound is low, and LDPE is soft, flexible and translucent, with a waxy surface that repels water. 
 		High-density polyethene (HDPE) 
-			
+			High-density polyethene (HDPE) - thermoplastic polymer with very few side branches produced from the monomer ethene.
+			Ethene is polymerised using lower pressure and lower temperatures. The result was a polymer of ethene with very few branches, and any branches that developed were short. 
+			Dispersion forces act more effectively on these chains because they can pack more closely together, and this type of polyethene is more rigid, stronger and more opaque than LDPE. It is slightly flexible and also has a waxy surface that repels water. It is commonly used to make bottles. 
+		![](https://lh7-us.googleusercontent.com/EqUZx6U88u86kgdhscYqi0P4IYDpA0aFYomzf5N4tDZTdTiozvlyzJOhRev9_L3W_nYK7yik_teYk7WHHrNhIl-uAcfyMKaDd85HmSkxuXo7z9KKOY8rh4GuseCBc517HXtp7_RZDhdspae1RhsD_oC8_w=s2048)
+	
+
 
 
 

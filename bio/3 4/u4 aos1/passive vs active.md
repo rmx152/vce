@@ -60,7 +60,7 @@ Acquired immunity
 			Antibodies from the mother are passed on through the placenta or in breast milk to the baby, giving it passive protection as its own immune system develops
 				 immunoglobulin G or IgG (IgA is also often found)
 			No memory of these antibodies after this time as the proteins from the antibodies degrade and are no made naturally by the baby’s own immune cells
-			![Transient hypogammaglobulinaemia of infancy - Don't Forget the Bubbles](https://lh7-us.googleusercontent.com/miPZJN0kMEHyrVhkvOkcc7W8QNSUxPy-6Jr3NWZPPw3PN_I_sAxxmyXmDf6gW424MSW1iRcD3uJou7u5mBjJpRihDfSdQcZZZGLw5RD4IzxGlVeZxp1yQICmbfEVq-o12QwNx82KRF1rOiEkVHCTmQ=s2048)
+			![Transient hypogamma globulinaemia of infancy - Don't Forget the Bubbles](https://lh7-us.googleusercontent.com/miPZJN0kMEHyrVhkvOkcc7W8QNSUxPy-6Jr3NWZPPw3PN_I_sAxxmyXmDf6gW424MSW1iRcD3uJou7u5mBjJpRihDfSdQcZZZGLw5RD4IzxGlVeZxp1yQICmbfEVq-o12QwNx82KRF1rOiEkVHCTmQ=s2048)
 			![](https://lh7-us.googleusercontent.com/4gWdPNsOhst_eBVWPBTKfbRqWMvJ9AhfJFwnvO0_TO-YUMfxMg6E3bM6_oHuVxpKOd36Lr8iqe6isedFpLAhhT-wO0V8zQRL3pQFrJLR3qINAxeG-6uWbYR_yq1SzON5-vrpK_o8Oj7oNbubURv2_g=s2048)
 
 

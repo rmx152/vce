@@ -55,7 +55,7 @@ Second line of defence
 			natural killer cells are an exception
 		Functions of leukocytes
 			Phagocytes
-				at foreign material, cellular debris or the remnants of dead cells (apoptotic bodies)
+				attack foreign material, cellular debris or the remnants of dead cells (apoptotic bodies)
 			Granulocytes
 				Release chemicals and enzymes from pre-prepared sacs called granules
 			Antigen presentation
@@ -95,7 +95,7 @@ Second line of defence
 		Instead, they attack cells that have fewer MHC 1 showing on their surface (downregulated MHC 1)
 			This is a common mechanism for viruses and early cancer cells to avoid detection. 
 			MHC 1 acts as an inhibitor to NK cells
-		NK cells will detect infected cells, create holes in their membrane (releases a protein called perforin) and releases enzymes that program cells to die (granzymes)
+		NK cells will detect infected cells, create holes in their membrane (releases a protein called perforin) and releases granzymes that program cells to die (granzymes)
 		![](https://lh7-us.googleusercontent.com/chz0IrrqTjlMVJDirKkhDr2Vl1Xt2AFUdr1z_3_QybE-C6t2PxipxsucCppzZJLOzpmxnw1IhVtdEdkCx5zukPsR9fb-7O8qnQgbxpt42OHknDM-R9IMbREoFp_In1iZwL7flp0ACfXRIXtiQYfnTA=s2048)
 	Cytokines
 		a chemical signal (typically protein) that communicates between cells and the immune system
@@ -110,7 +110,7 @@ Second line of defence
 		Swelling occurs 
 		Histamine increase the permeability of blood vessels and attracts more and more phagocytes to the infection 
 			monocytes in the bloodstream enter the tissue fluid of an infected area to become macrophages
-			Antihistamines act as competitive inhibitors to prevent inflammation from occuring
+			Antihistamines act as competitive inhibitors to prevent inflammation from occurring
 		Interleukins (a subgroup of cytokines) are released by macrophages to send the signal to the hypothalamus to induce a fever
 		![http://www.biologymad.com/Immunology/inflammation.jpg](https://lh7-us.googleusercontent.com/UX9f1Ziea1kFFWxYYxPsHR2zvifepDE2EmST81npn9VrgaGYfIjYO4EEq5X88MA0iQdMwDKirNhVbAEHHr_O0z1_fH_iMdtpec-2BaF02bhT4JXcsdThTtBtjuZj6RQehgb7q3CWPZHQ80dspzSI4w=s2048)
 		Sample answer
@@ -132,8 +132,8 @@ Second line of defence
 			will stick to invading pathogens 
 			lysis
 			destroy the membranes of invading micro-organisms 
-
-
+- Summary
+    - ![](https://remnote-user-data.s3.amazonaws.com/TYV5Pu7OOJrddBh2duz1k2igA8p0_IVCaOI361FjELyWsvfs6ezy_JQ5K2M-NU4y2lJdMMcut0tMBBTBAbyP7puXANd8PvOEF2YFh5xdtgq7fmCLfGySNZ_r-CcoWDlX.png)
 
 
 

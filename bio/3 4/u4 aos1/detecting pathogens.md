@@ -62,7 +62,7 @@ Pathogens
 					(purple stain)
 				Gram negative
 					(pink stain)
-				![[detecting pathogens-20240513094458846.webp]]
+				![[detecting pathogens-20240513094458846.webp|575]]
 		Fungi
 			Can affect plants and animals 
 				Ringworm and tinea
@@ -136,7 +136,7 @@ Self vs Non-self
 			can be from pathogens or non-pathogens like cancer cells, transplanted tissue or pollen. MHC markers can act as an antigen (such as transplanted tissue that isn’t matched to the recipient)
 		Presented by antigen-presenting cells using the MHC to give immune cells a snapshot of the internal environment of the cell 
 			viral infected cells will present fragments of the virus to signal an infection
-		
+
 
 
 
