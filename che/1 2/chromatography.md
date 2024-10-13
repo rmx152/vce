@@ -33,7 +33,7 @@ Dissolution and chromatography
 			![[solute so.png]]
 		Highly polar covalent molecules can ionise in water
 			If a POLAR covalent compound does NOT have H-FON, but is still POLAR, it will form ION-DIPOLE BONDS. ![[chromatography-20240319120246449.webp]]
-			When hydrogen chloride is added to water, the hydrogen atom in HCl forms a strong attraction to the oxygen atom in a water molecule that the H–Cl covalent bond breaks. 
+				When hydrogen chloride is added to water, the hydrogen atom in HCl forms a strong attraction to the oxygen atom in a water molecule that the H–Cl covalent bond breaks. 
 			The two electrons that made up the H–Cl covalent bond remain with the more electronegative Cl atom to form a Cl- anion while the hydrogen ion (H+) bonds with the water molecule to form hydronium ion (H3O+). 
 			The charged ions are then surrounded by other polar water molecules and held in solution by ion–dipole attractions.
 			These ions are said to be hydrated. 

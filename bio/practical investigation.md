@@ -1,5 +1,5 @@
 - Title
-    - Concise, informative and appropriate to the the prac
+    - Concise, informative and appropriate to the the practical 
     - 'The effect of temperature on the rate of breakdown of starch by the enzyme amylase'
 - Introduction
     - Background information
@@ -15,7 +15,6 @@
     - Hypothesis (an educated guess which predicts what will occur in your experiment in terms of the IV and DV)
         - What outcome do I expect?
         - If [IV] decreases, then [DV] increases
-        - Do not need to justify
             - 'If temperature increases then the rate of starch breakdown by amylase will increase'
             - 'If temperature decreases then the rate of starch breakdown by amylase will decrease'
             - 'When the temperature is at 20 degrees the rate of starch breakdown by amylase will be highest'

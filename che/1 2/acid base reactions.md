@@ -103,5 +103,55 @@ Concentration
 		Converting M to %(w/v)
 			![[acid base reactions-20240627135152470.webp]]
 		Converting measurements to %(w/v)
-			![[acid base reactions-20240627135300595.webp]]
+			![[acid base reactions-20240627135300595.webp|538]]
+Strong v weak acids and bases
+	The idea of reversible giving and taking of protons also helps us understand why some acids are considered strong, and some are considered weak
+	Strong acids ALWAYS donate their protons, 100% of the time
+	Weak acids only donate their protons SOMETIMES. 
+	Strong Acids
+		Hydrochloric acid (HCl) 
+		When HCl is added to water, it dissociates 100% of the time
+		HCl + H2O → H3O+ + Cl-
+	Weak Acids
+		weak acids often take their protons back after dissociating
+		So to distinguish between strong and weak acids, we use a reversible arrow, to show that the reaction goes backwards as well as forwards
+		CH3COOH + H2O ⇌  H3O+ + CH3COO-
+	Strength v concentration
+		cannot be used interchangeably
+		Strength is a measure of how likely it is for an acid to donate a proton, or how likely it is for a base to accept a proton. 
+		Concentration is a measure of how many acid or base particles are present in the first place
+Concentration
+	tell us how many particles are present per unit volume.
+	The most common unit of concentration we use in chemistry is Molar Concentration (M).
+	It measures how many moles of particles are present per litre of water (mol/L)
+pH Scale
+	way of referencing the Hydronium ion/proton concentration of a solution. 
+	pH decreases as concentration of H+ increases
+	The Autoionisation of water
+		 25oC is the standard temperature in chemistry ![](https://lh7-us.googleusercontent.com/slidesz/AGV_vUd6PxRHFvTAgnjslLkeqOcvUXYhjpOWO9gT7sSKwbDouWwJ_HyOcsiQsCQn7qXeiWpS_z_GT26rg-LwY3UP2hR_DO0qLPCmqXVgVDd1wOkEsqzq5or-hXOfUXbeT1b5c6cohoToUGh7a8-GWULVyTzafSFIBms=s2048?key=-zP6FfT034wG0amFXy8SyQ)
+		 The ionic product of water shows that at 25oC, the concentration of OH- and H3O+ ions will ALWAYS equal 10-14 in ANY solution
+	How to calculate pH
+		pH = -log(H3O+)
+		(H3O+) = 10-pH
+		Calculating pH- Monoprotic Acids
+			![[acid base reactions-20240718090900603.webp]]
+			![[acid base reactions-20240718090912880.webp]]
+		Calculating pH - Polyprotic Acids
+			![[acid base reactions-20240718090959374.webp]]
+			![[acid base reactions-20240718091017222.webp]]
+		Calculating the pH of a base
+			What is the pH of a 0.3M Solution of Barium Hydroxide (Ba(OH)2)?
+			![[acid base reactions-20240718091300938.webp]]
+Test
+	Neutralisation reactions
+	Strong + weak acid and bases
+	Conjugate acid pairs
+	PH calculations - Focus
+	Indicators
+	Specific heat + latent heat - Focus
+	Properties of water - Focus
+	Concentration calculations - Focus
+
+
+
 

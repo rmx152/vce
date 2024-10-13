@@ -32,7 +32,7 @@
         - DNA samples are loaded into wells in the gel
         - An electric charge is being run through the gel (negative electrode at the wells, positive electrode opposite to the wells)
         - The DNA moves towards the positive end
-        - The gel is porous, and the DNA must move through these pores, therefore larger/longer segments of DNA move more slowly than smaller pieces, allowing the segments to seperate out based on size
+        - The gel is porous, and the DNA must move through these pores, therefore larger/longer segments of DNA move more slowly than smaller pieces, allowing the segments to separate out based on size
         - Fragments are stained so that they can be seen 
     - Applications
         - Forensics

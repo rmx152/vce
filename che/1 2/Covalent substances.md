@@ -28,7 +28,7 @@ Covalent bonding
 			Rule 3 - Add lone pairs to complete the octet for the atoms that need one
 			Rule 4 - Make sure that your molecule is drawn in the correct shape
 				The shape of molecules is determined by a theory known as VSEPR Theory - or Valence Shell Electron Pair Repulsion Theory.
-				VSEPR Theory centers around the fact that electrons are negative and repel each other, so covalent bonding regions and lone pairs always arrange themselves so that they are as far apart from each other as possible.
+					VSEPR Theory centers around the fact that electrons are negative and repel each other, so covalent bonding regions and lone pairs always arrange themselves so that they are as far apart from each other as possible.
 					Lone pairs of electrons repel bonding pairs to a greater extent than a bonding pair repels another bonding pair. 
 				![](https://lh7-us.googleusercontent.com/J0hYm7n2qT_I_XUSYb8G6Rz8rmvroJaudp20UGFmCY6is6MpK_VY1SX8EP4Z70AHj-BSKqamegxCn7BHDiWdX29qbG-jMvDpkM5ZBHMa2sXYPu6IfHpzS9qZHexGjrEWZFXD3Ie5AsKVLh6wfYfnzq1pmQ=s2048)
 				Exceptions
